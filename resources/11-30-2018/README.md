@@ -15,7 +15,7 @@ Kick off meeting for FullStack Cafe. We talk about best practices, tools and dif
 
 Rohit Ravikoti (Co-Founder and CTO of Novvum)
 
-- [Github](http://www.github.com/rohit-ravikoti)
+- [Github](https://www.github.com/rohit-ravikoti)
 
 ## Misc Info
 

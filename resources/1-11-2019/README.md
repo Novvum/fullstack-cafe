@@ -29,4 +29,5 @@ From _Useful Resources_ Slide
 
 Raj Singh (Co-Founder and CEO of Novvum)
 
-- [Github](http://www.github.com/rajinwonderland)
+- [Github](https://www.github.com/rajinwonderland)
+- [Twitter](https://www.twitter.com/rajinwonderland)
