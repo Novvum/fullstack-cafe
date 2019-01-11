@@ -6,16 +6,22 @@ height="150px"></p>
 
 > This repo contains resources, assets, and much more fun from FullStack Cafe!
 
-### Details
-
 [Facebook Group](https://www.facebook.com/groups/fullstackcafe/)
+<br/>
 [Meetup Link](https://www.meetup.com/fullstackcafe/)
 
 What better way to share knowledge and build a community than over a cup of coffee? This is a group for anyone interested in software development, technology, consulting or the caffeine addicts like us. All skill levels are welcome. We started this group because as technologists ourselves, we are passionate learners who want to share and learn from like minded people. We look forward to meet all of you.
 
 ### Resources
 
-- From 01-11-19: [Vetting Open Source](resources/1-11-2019/README.md)
+**2018**
+
+- 11-30-2018 [Pathways](resources/2018/11-30-2018/README.md)
+- 12-14-2018 [GraphQL vs REST](resources/2018/12-14-2018/README.md)
+
+**2019**
+
+- 01-11-19: [Vetting Open Source](resources/2019/1-11-2019/README.md)
 
 ### Assets
 
