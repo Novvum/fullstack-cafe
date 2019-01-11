@@ -49,7 +49,8 @@ For finding **packages, boilerplates, and modules**
 ### Speaker Info
 
 Raj K Singh
-CEO & Cofounder
+<br/>
+_CEO & Cofounder_
 <br/>
 [Novvum Consulting Group](https://www.novvum.io)
 <br/>
