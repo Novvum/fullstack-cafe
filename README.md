@@ -1,7 +1,9 @@
-<p align="center">Full Stack Cafe!</p>
+<p align="center">
+<img src="https://rawcdn.githack.com/Novvum/fullstack-cafe/a8c8371bbb35fac726df5296295ba95a7bb9bdeb/assets/logo.svg"
+width="250px"></p>
 
-# Meetups
+# FullStack Cafe
 
-# Resources
+## Resources
 
-# Assets
+## Assets
