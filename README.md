@@ -6,6 +6,6 @@ height="150px"></p>
 
 ## Resources
 
-- From 1-11-19: [Vetting Open Source](/resources/1-11-19/README.md)
+- From 1-11-19: [Vetting Open Source](resources/1-11-19/README.md)
 
 ## Assets

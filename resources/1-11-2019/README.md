@@ -7,7 +7,7 @@ A quick workshop on vetting open source dependencies
 
 ## Files
 
-- [Slides in PDF](/Vetting%20Open%20Source.pdf)
+- [Slides in PDF](Vetting%20Open%20Source.pdf)
 - [Slides in PNG](Vetting%20Open%20Source.png)
 
 ## List of Resources from Slides
