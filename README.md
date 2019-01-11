@@ -4,8 +4,10 @@ height="150px"></p>
 
 # FullStack Cafe
 
+< A repo containing resources, assets, and much more fun from FullStack Cafe!
+
 ## Resources
 
-- From 1-11-19: [Vetting Open Source](resources/1-11-19/README.md)
+- From 1-11-19: [Vetting Open Source](resources/1-11-2019/README.md)
 
 ## Assets
