@@ -1,25 +1,22 @@
-# Being a Developer in 2018: Best practices, Tools and Learning Pathways 
+# Learning Pathways for Developers in 2018
 
-Learning pathway for the a developer in 2018. If you want to be 
+**Date**:
+11-30-2018
 
-**Purpose:**
-A quick workshop on vetting open source dependencies
+**Details:**
+Kick off meeting for FullStack Cafe. We talk about best practices, tools and different learning pathways for a developer in 2018.
 
-## Files
+## Resources
 
-- [Slides in PDF](Default%20Report.pdf)
-- [Slides in PNG](Vetting%20Open%20Source.png)
+- Learning pathway image
+  <img src="pathway.png" width=600/>
 
-## List of Resources from Slides
+## Speaker Info
 
-From _Useful Resources_ Slide
+Rohit Ravikoti (Co-Founder and CTO of Novvum)
 
-- Stackshare.io
-- Npms.io
-- Libraries.io
-- Js.coach
-- Medium.com
-- Github Trending
-- Twitter!
-- Opensource.dev
-- codesandbox.io
+- [Github](http://www.github.com/rohit-ravikoti)
+
+## Misc Info
+
+- Join our [Facebook Group](https://www.facebook.com/groups/FullStackCafe)

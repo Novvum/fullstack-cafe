@@ -1,25 +1,28 @@
-# Vetting Open Source
+# A Introduction to APIs
 
-Slides from 1-11-19 meetup
+**Date**:
+12-14-2018
 
-**Purpose:**
-A quick workshop on vetting open source dependencies
+**Details:**
+A crash course on APIs and the difference between GraphQL and REST.
 
-## Files
+## Resources
 
-- [Slides in PDF](Default%20Report.pdf)
-- [Slides in PNG](Vetting%20Open%20Source.png)
+- [API Slide Deck](https://slides.com/trevorh/deck#/)
 
-## List of Resources from Slides
+## Additional Resources Featured
 
-From _Useful Resources_ Slide
+- [www.graph.cool](https://www.graph.cool) -> quickly scaffold a graphql api. graphql backend as a service
+- [www.swapi.co](https://www.swapi.co) -> star wars api
+- [www.graphql.org/swapi-graphql](https://www.graphql.org/swapi-graphql) -> star wars graphql playground
 
-- Stackshare.io
-- Npms.io
-- Libraries.io
-- Js.coach
-- Medium.com
-- Github Trending
-- Twitter!
-- Opensource.dev
-- codesandbox.io
+## Speaker Info
+
+Trevor Heath (VP of Product Development at Novvum)
+
+- [Github](https://www.github.com/trevheath)
+- [Twitter](https://twitter.com/TheTrevorHeath)
+
+Rohit Ravikoti (Co-Founder and CTO of Novvum)
+
+- [Github](https://github.com/rohit-ravikoti)

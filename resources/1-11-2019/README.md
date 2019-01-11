@@ -1,26 +1,32 @@
 # Vetting Open Source
 
-**From**:
-01/11/19 meetup
+**Date**:
+01-11-19
 
 **Details:**
-A quick workshop on vetting open source dependencies
 
-## Includes
+  <img src="Vetting Open Source.png" width=600/>
 
-- [Slides in PDF](Vetting%20Open%20Source.pdf)
-- [Slides in PNG](Vetting%20Open%20Source.png)
+## Resources
+
+- [PDF Slides](Vetting%20Open%20Source.pdf)
 
 ### List of Resources from Slides
 
 From _Useful Resources_ Slide
 
-- Stackshare.io
-- Npms.io
-- Libraries.io
-- Js.coach
-- Medium.com
-- Github Trending
-- Twitter!
-- Opensource.dev
-- codesandbox.io
+- [Stackshare.io](https://www.stackshare.io)
+- [Npms.io](https://www.npms.io)
+- [Libraries.io](https://www.libraries.io)
+- [Js.coach](https://www.js.coach)
+- [Medium.com](https://www.medium.com)
+- [Github Trending](https://github.com/trending)
+- [Twitter](https://www.twitter.com)
+- [Opensource.dev](https://www.opensource.dev)
+- [Codesandbox.io](https://www.codesandbox.io)
+
+## Speaker Info
+
+Raj Singh (Co-Founder and CEO of Novvum)
+
+- [Github](http://www.github.com/rajinwonderland)
