@@ -1,15 +1,15 @@
 # Vetting Open Source
 
-**From**:
-01/11/19 meetup
+**Date**:
+01-11-19
 
 **Details:**
-A quick workshop on vetting open source dependencies
 
-## Includes
+  <img src="Vetting Open Source.png" width=600/>
 
-- [Slide Deck in PDF](Vetting%20Open%20Source.pdf)
-- [Slide Deck in PNG](Vetting%20Open%20Source.png)
+## Resources
+
+- [PDF Slides](Vetting%20Open%20Source.pdf)
 
 ### List of Resources from Slides
 
@@ -22,23 +22,23 @@ For finding **packages, boilerplates, and modules**
 - [Libraries.io](https://npms.io)
 - [Js Coach](https://js.coach)
 
-Articles
+**Articles**
 
 - [Medium](https://medium.com)
 
-Repositories
+**Repositories**
 
 - [Github Explore](https://github.com/explore)
 
-Social Media
+**Social Media**
 
 - [Twitter](https://twitter.com)
 
-History of Open Source
+**History of Open Source**
 
 - [Opensource Dev](https://opensource.dev) by Google
 
-Online IDEs and Playgrounds
+**Online IDEs and Playgrounds**
 
 - [CodeSandbox](https://codesandbox.io)
 - [Codepen](https://codepen.io)
