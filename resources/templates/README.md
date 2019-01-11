@@ -19,15 +19,17 @@ If any extra items people have requested are to be documented
 
 Info on the extra item!
 
-## Speaker Info
+### Speaker Info
 
 Name of Speaker
-[Twitter](twitter.com/username)
-[Github](github.com/username)
+[Twitter](https://twitter.com/username)
+[Github](https://github.com/username)
 Any other links
 
-## Acknowledgments
+### Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+Need help with markdown? Check out this [cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

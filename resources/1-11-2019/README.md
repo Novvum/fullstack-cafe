@@ -15,19 +15,41 @@
 
 From _Useful Resources_ Slide
 
-- [Stackshare.io](https://www.stackshare.io)
-- [Npms.io](https://www.npms.io)
-- [Libraries.io](https://www.libraries.io)
-- [Js.coach](https://www.js.coach)
-- [Medium.com](https://www.medium.com)
-- [Github Trending](https://github.com/trending)
-- [Twitter](https://www.twitter.com)
-- [Opensource.dev](https://www.opensource.dev)
-- [Codesandbox.io](https://www.codesandbox.io)
+For finding **packages, boilerplates, and modules**
 
-## Speaker Info
+- [Stackshare](https://stackshare.io)
+- [Npms.io](https://npms.io)
+- [Libraries.io](https://npms.io)
+- [Js Coach](https://js.coach)
 
-Raj Singh (Co-Founder and CEO of Novvum)
+**Articles**
 
-- [Github](https://www.github.com/rajinwonderland)
-- [Twitter](https://www.twitter.com/rajinwonderland)
+- [Medium](https://medium.com)
+
+**Repositories**
+
+- [Github Explore](https://github.com/explore)
+
+**Social Media**
+
+- [Twitter](https://twitter.com)
+
+**History of Open Source**
+
+- [Opensource Dev](https://opensource.dev) by Google
+
+**Online IDEs and Playgrounds**
+
+- [CodeSandbox](https://codesandbox.io)
+- [Codepen](https://codepen.io)
+- [JS Fiddle](https://jsfiddle.net)
+- [REPL It!](https://repl.it)
+- [Runkit](https://runkit.com)
+
+### Speaker Info
+
+Raj K Singh
+CEO & Cofounder
+[Novvum](https://www.novvum.io)
+[Twitter](https://twitter.com/rajinwonderland)
+[Github](https://github.com/rajinwonderland)
