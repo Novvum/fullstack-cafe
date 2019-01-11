@@ -51,5 +51,7 @@ For finding **packages, boilerplates, and modules**
 Raj K Singh
 CEO & Cofounder
 [Novvum](https://www.novvum.io)
+<br/>
 [Twitter](https://twitter.com/rajinwonderland)
+<br/>
 [Github](https://github.com/rajinwonderland)
