@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://rawcdn.githack.com/Novvum/fullstack-cafe/a8c8371bbb35fac726df5296295ba95a7bb9bdeb/assets/logo.svg"
+<img src="assets/fullLogo.svg"
 height="150px"></p>
 
 # FullStack Cafe
+
+Welcome to FullStack Cafe's Repo Library!
 
 > This repo contains resources, assets, and much more fun from FullStack Cafe!
 
@@ -27,5 +29,7 @@ What better way to share knowledge and build a community than over a cup of coff
 
 A collection of assets from FullStack Cafe
 
-- [PNG Logo](assets/logo.png)
-- [SVG Logo](assets/logo.svg)
+- [Logo Png](assets/logo.png)
+- [Logo Svg](assets/logo.svg)
+- [Full Logo Png](assets/fullLogo.png)
+- [Full Logo Svg](assets/fullLogo.svg)
