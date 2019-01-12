@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/fullLogo.svg"
+<img src="assets/fullLogo.png"
 height="150px"></p>
 
 # FullStack Cafe
