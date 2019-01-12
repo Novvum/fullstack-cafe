@@ -8,12 +8,6 @@ Welcome to FullStack Cafe's Repo Library!
 
 > This repo contains resources, assets, and much more fun from FullStack Cafe!
 
-[Facebook Group](https://www.facebook.com/groups/fullstackcafe/)
-<br/>
-[Meetup Link](https://www.meetup.com/fullstackcafe/)
-
-What better way to share knowledge and build a community than over a cup of coffee? This is a group for anyone interested in software development, technology, consulting or the caffeine addicts like us. All skill levels are welcome. We started this group because as technologists ourselves, we are passionate learners who want to share and learn from like minded people. We look forward to meet all of you.
-
 ### Resources
 
 **2018**
@@ -33,3 +27,17 @@ A collection of assets from FullStack Cafe
 - [Logo Svg](assets/logo.svg)
 - [Full Logo Png](assets/fullLogo.png)
 - [Full Logo Svg](assets/fullLogo.svg)
+
+
+## Details
+
+[Spectrum Chat](https://spectrum.chat/fullstack-cafe)
+<br/>
+[Meetup Group](https://www.meetup.com/fullstackcafe/)
+<br/>
+[Facebook Group](https://www.facebook.com/groups/fullstackcafe/)
+
+What better way to share knowledge and build a community than over a cup of coffee? This is a group for anyone interested in software development, technology, consulting or the caffeine addicts like us. All skill levels are welcome. We started this group because as technologists ourselves, we are passionate learners who want to share and learn from like minded people. We look forward to meet all of you.
+
+---
+<p align="center">Made by <a href="https://www.novvum.io">Novvum</a> ❤️</p>
