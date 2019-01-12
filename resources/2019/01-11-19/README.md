@@ -48,8 +48,16 @@ For finding **packages, boilerplates, and modules**
 
 ### Speaker Info
 
+<img src="https://avatars3.githubusercontent.com/u/15880596?s=460&v=4" width=150 
+/> 
+
 Raj K Singh
-CEO & Cofounder
-[Novvum](https://www.novvum.io)
-[Twitter](https://twitter.com/rajinwonderland)
-[Github](https://github.com/rajinwonderland)
+<br/>
+_CEO & Cofounder_
+<br/>
+[Novvum Consulting Group](https://www.novvum.io)
+<br/>
+[Twitter @rajinwonderland](https://twitter.com/rajinwonderland)
+<br/>
+[Github @rajinwonderland](https://github.com/rajinwonderland)
+
