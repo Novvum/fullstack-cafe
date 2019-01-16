@@ -2,7 +2,7 @@
 <img src="assets/fullLogo.png"
 height="150px"></p>
 
-# FullStack Cafe
+# FullStack Cafe ☕️
 
 Welcome to FullStack Cafe's Repo Library!
 
